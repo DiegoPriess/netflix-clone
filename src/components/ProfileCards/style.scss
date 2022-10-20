@@ -1,0 +1,38 @@
+.profile-card{
+    display: flex;
+    flex-direction: column;
+    margin: 0 16px;
+    justify-content: center;
+    text-decoration: none !important;
+
+    .profile-card-content{
+
+        img{
+            display: inline-block;
+            width: 10vw;
+            height: 10vw;
+            cursor: pointer;
+    
+            border-radius: 5px;
+        }
+
+        p{
+            padding: 12px;
+            font-size: 1.3em;
+            color: grey;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        &:hover {
+            img{
+                border: 3.5px solid rgba(255, 255, 255, 0.9);
+                margin: -3.5px;
+            }
+
+            p{
+                color: rgba(255, 255, 255, 0.9);
+            }
+        }
+    }
+}

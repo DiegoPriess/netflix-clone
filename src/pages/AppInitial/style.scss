@@ -1,0 +1,51 @@
+*{
+    text-decoration: none;
+}
+
+.app-initial{
+    display: flex;
+    position: absolute;
+    justify-content: space-around;
+    top: 0;
+    width: 100%;
+    height: 100vh;
+
+    
+.app-initial-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    h1{
+        font-size: 3.5vw;
+        color: #ffffff;
+        text-align: center;
+        margin: 40px 0;
+    }
+
+    .initial-profiles{
+        display: flex;
+    }
+
+    .edit-profiles{
+        display: flex;
+        justify-content: center;
+        margin-top: 5vw;
+
+        button{
+            all: unset;
+            border: 1px solid grey;
+            color: grey;
+            width: 11vw;
+            font-size: 1.5em;
+            padding: 0.8vw 1.5vw;
+            text-align: center;
+
+            &:hover{
+                color: rgba(255, 255, 255, 0.9);
+                border-color: rgba(255, 255, 255, 0.9);
+            }
+        }
+    }
+}
+}

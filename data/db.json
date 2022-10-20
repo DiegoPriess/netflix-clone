@@ -1,0 +1,589 @@
+{
+    "profile": [
+      {
+        "id": "0",
+        "image": "1",
+        "name": "Diego"
+      },
+      {
+        "id": "1",
+        "image": "2",
+        "name": "Rafael"
+      },
+      {
+        "id": "2",
+        "image": "4",
+        "name": "Jéssica"
+      },
+      {
+        "id": "3",
+        "image": "3",
+        "name": "Juliana"
+      },
+      {
+        "id": "4",
+        "image": "0",
+        "name": "Arnaldo"
+      }
+    ],
+    "movies": [
+      {
+        "id": 0,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUPMT8XeSR35_ukVQHjMaYmmIlRO6T15QKwX36gv7ay9OylkNfYrSm74qBiwqLReu6hwp6R3otximUpxKHbaNJUgh-g.webp?r=f42",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 1,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABROsMj6MV4o4doM7bMn9xrcyWpiTaYUQuHFplbdQtrJXPU8j7mx3KEuzWztzAqmYCTHCIBybZYE271JG8Se1nVZ-semF5ovCb7xF2KhfzhaQR64K4fwn-3pqWuXg.jpg?r=469",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 2,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 3,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUPMT8XeSR35_ukVQHjMaYmmIlRO6T15QKwX36gv7ay9OylkNfYrSm74qBiwqLReu6hwp6R3otximUpxKHbaNJUgh-g.webp?r=f42",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "14",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 4,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABROsMj6MV4o4doM7bMn9xrcyWpiTaYUQuHFplbdQtrJXPU8j7mx3KEuzWztzAqmYCTHCIBybZYE271JG8Se1nVZ-semF5ovCb7xF2KhfzhaQR64K4fwn-3pqWuXg.jpg?r=469",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "16",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 5,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "14",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 6,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUPMT8XeSR35_ukVQHjMaYmmIlRO6T15QKwX36gv7ay9OylkNfYrSm74qBiwqLReu6hwp6R3otximUpxKHbaNJUgh-g.webp?r=f42",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 7,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABROsMj6MV4o4doM7bMn9xrcyWpiTaYUQuHFplbdQtrJXPU8j7mx3KEuzWztzAqmYCTHCIBybZYE271JG8Se1nVZ-semF5ovCb7xF2KhfzhaQR64K4fwn-3pqWuXg.jpg?r=469",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 8,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "to_family",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 9,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUPMT8XeSR35_ukVQHjMaYmmIlRO6T15QKwX36gv7ay9OylkNfYrSm74qBiwqLReu6hwp6R3otximUpxKHbaNJUgh-g.webp?r=f42",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "18",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 10,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABROsMj6MV4o4doM7bMn9xrcyWpiTaYUQuHFplbdQtrJXPU8j7mx3KEuzWztzAqmYCTHCIBybZYE271JG8Se1nVZ-semF5ovCb7xF2KhfzhaQR64K4fwn-3pqWuXg.jpg?r=469",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "16",
+        "year": "2021",
+        "relevance": "92%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 11,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "16",
+        "year": "2021",
+        "relevance": "88%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 12,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABUPMT8XeSR35_ukVQHjMaYmmIlRO6T15QKwX36gv7ay9OylkNfYrSm74qBiwqLReu6hwp6R3otximUpxKHbaNJUgh-g.webp?r=f42",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "18",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 13,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABROsMj6MV4o4doM7bMn9xrcyWpiTaYUQuHFplbdQtrJXPU8j7mx3KEuzWztzAqmYCTHCIBybZYE271JG8Se1nVZ-semF5ovCb7xF2KhfzhaQR64K4fwn-3pqWuXg.jpg?r=469",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "14",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 14,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "16",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 15,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "18",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 16,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      },
+      {
+        "id": 17,
+        "thumbnail_src": "https://occ-0-4380-1740.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABdEybZWSbZSf65ViC-htb2-zoq8oR8YsNkMRng3H7ZjKQRrMIX2e2AJJcdPza88xdNZAnFXELIXqeeybuj9tzRgjU3l4wOC5qjfmxMByKOuDk1rwu_3HFWM6skFD.jpg?r=da0",
+        "title": "Tírulo Longoooooooooooooo",
+        "type": "action",
+        "description": "Lorem sinandasdmoa kaskmdasmkdm kmasdkmasmm akmsdmkaosokas amosdmoasmkm amkdmakmko damkods okasod mkakdsmo mkasdm mas mom moa",
+        "age": "12",
+        "year": "2021",
+        "relevance": "98%",
+        "seasons": 1,
+        "type_scenes" : [
+          "Realistas",
+          "Sombrios", 
+          "Empolgantes"
+        ],
+        "genders" : [
+          "Séries baseadas em HQ",
+          "Séries dos EUA", 
+          "Séries de ação e aventura"
+        ],
+        "cast": [
+          "Diego Priess",
+          "Zéazinho",
+          "Judas",
+          "Gabriel",
+          "Pedro",
+          "Zacarias",
+          "Grey",
+          "Michel"
+        ]
+      }
+    ]
+  }
